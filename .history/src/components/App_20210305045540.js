@@ -35,6 +35,3 @@ const App=()=>{
 }
 
 export default App
-
-
-// Link to production is https://videos-neon-six.vercel.app/
